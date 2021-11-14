@@ -11,13 +11,13 @@ let db;
 // Tell indexedDb to open (or create) whatever database you want to work with
 // I'd recommend naming the database something like "budget" and the object store 
 // something like "pending" or "tba"
-const request = indexedDB.open("<your db name here>", 1);
+const request = indexedDB.open("budgettracker", 1);
 
 // Set up your object store
 // Think of an object store as a table inside your database
 request.onupgradeneeded = ({ target }) => {
   let db = target.result;
-  db.createObjectStore("<object store name here>", { autoIncrement: true });
+  db.createObjectStore("pending", { autoIncrement: true });
 };
 
 // Leave this code as-is
