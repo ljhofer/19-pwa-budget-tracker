@@ -60,8 +60,8 @@ function checkDatabase() {
       })
       .then(() => {
         // deletes records if successful
-        const transaction = db.transaction(["<object store name here>"], "readwrite");
-        const store = transaction.objectStore("<object store name here>");
+        const transaction = db.transaction(["pending"], "readwrite");
+        const store = transaction.objectStore("pending");
         store.clear();
       });
     }
