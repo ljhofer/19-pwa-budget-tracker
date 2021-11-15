@@ -22,14 +22,8 @@ This application requires Node therefore users should run "npm install" in their
 
 ## Usage
 
-<!-- Add correct screen shot once duration is loading -->
-Here is a screen shot of the landing page for the app:
-
-![Screen shot of landing page](./public/images/homepage_screenshot.png)
-
-Here is a screen shot of the Dashboard page for the app:
-
-![Screen shot of landing page](./public/images/dashboard_screenshot.png)
+Here is a screen shot of the app:
+![Screen shot of the app](./public/images/screenshot.png)
 
 ## License
 This project licensed under the [MIT License](https://opensource.org/licenses/MIT).
@@ -38,13 +32,12 @@ This project licensed under the [MIT License](https://opensource.org/licenses/MI
 Please contact me at <ljhofer@gmail.com> to discuss contributions.
 
 ## Link
-<!-- Add correct Heroku/Atlas link here -->
-[Link to deployed on Heroku.](https://ljhofer-fitness-tracker.herokuapp.com/)
+[Link to deployed on Heroku.](https://ljhofer-budget-tracker.herokuapp.com/)
 
-[Link to project's GitHub repo.](https://github.com/ljhofer/nosql-fitness-tracker)
+[Link to project's GitHub repo.](https://ljhofer-budget-tracker.herokuapp.com/)
 
 ## Technologies
-The program uses HTML, CSS, JavaScript, Node, Express, Mongo, and Mongoose.
+The program uses HTML, CSS, JavaScript, Node, Express, Mongoose, and Morgan.
 
 ## Questions
 Please email any questions to <ljhofer@gmail.com> or reference my [GitHub profile](https://github.com/ljhofer). 
