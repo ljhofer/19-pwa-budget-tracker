@@ -5,7 +5,7 @@ Bootcamp Homework #19
 
 
 ## Description 
-I have refactored a budget tracker app. Users can add funds and track spending. The app function online and offline.  
+I have refactored a budget tracker app. Users can add funds and track spending. The app functions online and offline.  
     
 ## Table of Contents
 
