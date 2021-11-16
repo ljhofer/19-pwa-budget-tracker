@@ -5,7 +5,7 @@ Bootcamp Homework #19
 
 
 ## Description 
-I have refactored an app 
+I have refactored a budget tracker app. Users can add funds and track spending. The app function online and offline.  
     
 ## Table of Contents
 
@@ -37,7 +37,7 @@ Please contact me at <ljhofer@gmail.com> to discuss contributions.
 [Link to project's GitHub repo.](https://ljhofer-budget-tracker.herokuapp.com/)
 
 ## Technologies
-The program uses HTML, CSS, JavaScript, Node, Express, Mongoose, and Morgan.
+The program uses HTML, CSS, JavaScript, Node, Express, Mongoose, Compression, and Morgan.
 
 ## Questions
 Please email any questions to <ljhofer@gmail.com> or reference my [GitHub profile](https://github.com/ljhofer). 
